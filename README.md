@@ -1,1 +1,1 @@
-# Tast1-forest-fire-detection-
+# forest-fire-detection-
